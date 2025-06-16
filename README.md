@@ -56,20 +56,6 @@ To increase customer engagement, satisfaction, retention, and CLTV by delivering
 
 ---
 
-## MVP Feature Set
-
-| Feature                                | Priority     | Justification                                                      |
-|----------------------------------------|--------------|--------------------------------------------------------------------|
-| Personalized Recommendations           | Must-Have    | Drives satisfaction and engagement                                 |
-| Wishlist Discount Notifications        | Must-Have    | Boosts repeat purchases                                            |
-| One-Click Reordering                   | Must-Have    | Key for convenience-driven users                                   |
-| Product Comparison Insights            | Should-Have  | Helps value seekers make informed decisions                        |
-| Complementary Product Suggestions      | Should-Have  | Enhances cart value                                                |
-| Trusted Product Highlights             | Could-Have   | Builds trust, useful but non-critical in MVP                       |
-| Responsive Customer Support            | Won’t-Have   | Resource-intensive, deferred to later phase                        |
-
----
-
 ## Technical Requirements
 
 - **Data Sources:** Transaction history, user behavior, wishlists, CRM
@@ -89,6 +75,20 @@ To increase customer engagement, satisfaction, retention, and CLTV by delivering
 | As a Convenience Shopper, I want recommendations for complementary products | Convenience Shopper      | 7     | 7      | 8          | 5      | 78         |
 | As a Convenience Shopper, I want trusted products to be highlighted       | Convenience Shopper      | 7     | 7      | 7          | 7      | 49         |
 | As a Convenience Shopper, I want responsive support when I face issues    | Convenience Shopper      | 6     | 8      | 8          | 9      | 42         |
+
+---
+
+## MVP Feature Set
+
+| Feature                                | Priority     | Justification                                                      |
+|----------------------------------------|--------------|--------------------------------------------------------------------|
+| Personalized Recommendations           | Must-Have    | Drives satisfaction and engagement                                 |
+| Wishlist Discount Notifications        | Must-Have    | Boosts repeat purchases                                            |
+| One-Click Reordering                   | Must-Have    | Key for convenience-driven users                                   |
+| Product Comparison Insights            | Should-Have  | Helps value seekers make informed decisions                        |
+| Complementary Product Suggestions      | Should-Have  | Enhances cart value                                                |
+| Trusted Product Highlights             | Could-Have   | Builds trust, useful but non-critical in MVP                       |
+| Responsive Customer Support            | Won’t-Have   | Resource-intensive, deferred to later phase                        |
 
 ---
 
