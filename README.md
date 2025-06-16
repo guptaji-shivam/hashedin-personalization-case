@@ -4,7 +4,7 @@
 
 **Product Name:** ShopEase Personal Shopper  
 **Owner:** Product Management Team, ShopEase  
-**Prepared By:** Shivam Gupta 
+**Prepared By:** Shivam Gupta
 **Date:** 17 Novemeber, 2024  
 **Version:** 1.0
 
