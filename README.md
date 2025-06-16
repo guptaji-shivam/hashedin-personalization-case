@@ -1,10 +1,12 @@
 # ShopEase Personal Shopper - Product Requirement Document (PRD)
+**Recognition**: Interviewer was highly satisfied  
+**Duration**: 12 Hrs
 
 ## Overview
 
 **Product Name:** ShopEase Personal Shopper  
 **Owner:** Product Management Team, ShopEase  
-**Prepared By:** Shivam Gupta
+**Prepared By:** Shivam Gupta  
 **Date:** 17 Novemeber, 2024  
 **Version:** 1.0
 
